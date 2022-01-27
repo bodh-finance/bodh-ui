@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.86837ae4.chunk.css",
-    "main.js": "/static/js/main.037a6615.chunk.js",
-    "main.js.map": "/static/js/main.037a6615.chunk.js.map",
+    "main.css": "/static/css/main.23e6b335.chunk.css",
+    "main.js": "/static/js/main.bb8df63e.chunk.js",
+    "main.js.map": "/static/js/main.bb8df63e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1fa1ba2e.js",
     "runtime-main.js.map": "/static/js/runtime-main.1fa1ba2e.js.map",
     "static/css/2.f4c56af9.chunk.css": "/static/css/2.f4c56af9.chunk.css",
@@ -12,11 +12,10 @@
     "static/js/3.53af9679.chunk.js.map": "/static/js/3.53af9679.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.f4c56af9.chunk.css.map": "/static/css/2.f4c56af9.chunk.css.map",
-    "static/css/main.86837ae4.chunk.css.map": "/static/css/main.86837ae4.chunk.css.map",
+    "static/css/main.23e6b335.chunk.css.map": "/static/css/main.23e6b335.chunk.css.map",
     "static/js/2.b701af5d.chunk.js.LICENSE.txt": "/static/js/2.b701af5d.chunk.js.LICENSE.txt",
     "static/media/AAVE-logo.0a64aa49.svg": "/static/media/AAVE-logo.0a64aa49.svg",
     "static/media/ARBITRUM-logo.5d22e2f1.png": "/static/media/ARBITRUM-logo.5d22e2f1.png",
-    "static/media/AURORA-logo.c5effc7c.png": "/static/media/AURORA-logo.c5effc7c.png",
     "static/media/BOBA-logo.3152bf9a.png": "/static/media/BOBA-logo.3152bf9a.png",
     "static/media/BPRO-logo.61a8046a.svg": "/static/media/BPRO-logo.61a8046a.svg",
     "static/media/BTC-logo.229e5f10.svg": "/static/media/BTC-logo.229e5f10.svg",
@@ -29,7 +28,6 @@
     "static/media/IOTX-logo.804ed46a.svg": "/static/media/IOTX-logo.804ed46a.svg",
     "static/media/LINK-logo.24598efa.svg": "/static/media/LINK-logo.24598efa.svg",
     "static/media/MIM-logo.dca17d94.svg": "/static/media/MIM-logo.dca17d94.svg",
-    "static/media/NEAR-logo.1f0b9502.svg": "/static/media/NEAR-logo.1f0b9502.svg",
     "static/media/ONE-logo.02c2e3ba.svg": "/static/media/ONE-logo.02c2e3ba.svg",
     "static/media/SNX-logo.33a63b7f.svg": "/static/media/SNX-logo.33a63b7f.svg",
     "static/media/SPELL-logo.6f78e318.svg": "/static/media/SPELL-logo.6f78e318.svg",
@@ -46,7 +44,7 @@
     "static/js/runtime-main.1fa1ba2e.js",
     "static/css/2.f4c56af9.chunk.css",
     "static/js/2.b701af5d.chunk.js",
-    "static/css/main.86837ae4.chunk.css",
-    "static/js/main.037a6615.chunk.js"
+    "static/css/main.23e6b335.chunk.css",
+    "static/js/main.bb8df63e.chunk.js"
   ]
 }
