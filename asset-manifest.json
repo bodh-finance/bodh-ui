@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.85ebb799.chunk.css",
-    "main.js": "/static/js/main.e01b1f0b.chunk.js",
-    "main.js.map": "/static/js/main.e01b1f0b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.24c2dc77.js",
-    "runtime-main.js.map": "/static/js/runtime-main.24c2dc77.js.map",
+    "main.css": "/static/css/main.432deb13.chunk.css",
+    "main.js": "/static/js/main.e4ff9fac.chunk.js",
+    "main.js.map": "/static/js/main.e4ff9fac.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5d0c600f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5d0c600f.js.map",
     "static/css/2.f4c56af9.chunk.css": "/static/css/2.f4c56af9.chunk.css",
-    "static/js/2.889c0393.chunk.js": "/static/js/2.889c0393.chunk.js",
-    "static/js/2.889c0393.chunk.js.map": "/static/js/2.889c0393.chunk.js.map",
-    "static/js/3.3cef234d.chunk.js": "/static/js/3.3cef234d.chunk.js",
-    "static/js/3.3cef234d.chunk.js.map": "/static/js/3.3cef234d.chunk.js.map",
+    "static/js/2.c79cde87.chunk.js": "/static/js/2.c79cde87.chunk.js",
+    "static/js/2.c79cde87.chunk.js.map": "/static/js/2.c79cde87.chunk.js.map",
+    "static/js/3.edd83bde.chunk.js": "/static/js/3.edd83bde.chunk.js",
+    "static/js/3.edd83bde.chunk.js.map": "/static/js/3.edd83bde.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.f4c56af9.chunk.css.map": "/static/css/2.f4c56af9.chunk.css.map",
-    "static/css/main.85ebb799.chunk.css.map": "/static/css/main.85ebb799.chunk.css.map",
-    "static/js/2.889c0393.chunk.js.LICENSE.txt": "/static/js/2.889c0393.chunk.js.LICENSE.txt",
+    "static/css/main.432deb13.chunk.css.map": "/static/css/main.432deb13.chunk.css.map",
+    "static/js/2.c79cde87.chunk.js.LICENSE.txt": "/static/js/2.c79cde87.chunk.js.LICENSE.txt",
     "static/media/AAVE-logo.0a64aa49.svg": "/static/media/AAVE-logo.0a64aa49.svg",
     "static/media/ARBITRUM-logo.5d22e2f1.png": "/static/media/ARBITRUM-logo.5d22e2f1.png",
     "static/media/BOBA-logo.3152bf9a.png": "/static/media/BOBA-logo.3152bf9a.png",
@@ -41,10 +41,10 @@
     "static/media/rating-star.a3af5a27.svg": "/static/media/rating-star.a3af5a27.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.24c2dc77.js",
+    "static/js/runtime-main.5d0c600f.js",
     "static/css/2.f4c56af9.chunk.css",
-    "static/js/2.889c0393.chunk.js",
-    "static/css/main.85ebb799.chunk.css",
-    "static/js/main.e01b1f0b.chunk.js"
+    "static/js/2.c79cde87.chunk.js",
+    "static/css/main.432deb13.chunk.css",
+    "static/js/main.e4ff9fac.chunk.js"
   ]
 }
