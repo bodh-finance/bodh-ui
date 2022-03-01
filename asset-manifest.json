@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.a87fdba0.chunk.css",
-    "main.js": "/static/js/main.98e93300.chunk.js",
-    "main.js.map": "/static/js/main.98e93300.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a3d2cb59.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a3d2cb59.js.map",
+    "main.css": "/static/css/main.92391ab4.chunk.css",
+    "main.js": "/static/js/main.1a756068.chunk.js",
+    "main.js.map": "/static/js/main.1a756068.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.229fb84f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.229fb84f.js.map",
     "static/css/2.f4c56af9.chunk.css": "/static/css/2.f4c56af9.chunk.css",
-    "static/js/2.e358efc8.chunk.js": "/static/js/2.e358efc8.chunk.js",
-    "static/js/2.e358efc8.chunk.js.map": "/static/js/2.e358efc8.chunk.js.map",
-    "static/js/3.2bda2eeb.chunk.js": "/static/js/3.2bda2eeb.chunk.js",
-    "static/js/3.2bda2eeb.chunk.js.map": "/static/js/3.2bda2eeb.chunk.js.map",
+    "static/js/2.e3a332c5.chunk.js": "/static/js/2.e3a332c5.chunk.js",
+    "static/js/2.e3a332c5.chunk.js.map": "/static/js/2.e3a332c5.chunk.js.map",
+    "static/js/3.7810aef1.chunk.js": "/static/js/3.7810aef1.chunk.js",
+    "static/js/3.7810aef1.chunk.js.map": "/static/js/3.7810aef1.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.f4c56af9.chunk.css.map": "/static/css/2.f4c56af9.chunk.css.map",
-    "static/css/main.a87fdba0.chunk.css.map": "/static/css/main.a87fdba0.chunk.css.map",
-    "static/js/2.e358efc8.chunk.js.LICENSE.txt": "/static/js/2.e358efc8.chunk.js.LICENSE.txt",
+    "static/css/main.92391ab4.chunk.css.map": "/static/css/main.92391ab4.chunk.css.map",
+    "static/js/2.e3a332c5.chunk.js.LICENSE.txt": "/static/js/2.e3a332c5.chunk.js.LICENSE.txt",
     "static/media/AAVE-logo.0a64aa49.svg": "/static/media/AAVE-logo.0a64aa49.svg",
     "static/media/ARBITRUM-logo.5d22e2f1.png": "/static/media/ARBITRUM-logo.5d22e2f1.png",
     "static/media/BOBA-logo.3152bf9a.png": "/static/media/BOBA-logo.3152bf9a.png",
@@ -36,6 +36,7 @@
     "static/media/UNI-logo.122b46d7.svg": "/static/media/UNI-logo.122b46d7.svg",
     "static/media/USDC-logo.f08e02b1.svg": "/static/media/USDC-logo.f08e02b1.svg",
     "static/media/USDT-logo.6dc09781.svg": "/static/media/USDT-logo.6dc09781.svg",
+    "static/media/WAGMIv1-logo.351d0296.png": "/static/media/WAGMIv1-logo.351d0296.png",
     "static/media/WBTC-logo.fa29bebf.svg": "/static/media/WBTC-logo.fa29bebf.svg",
     "static/media/YFI-logo.442c449a.svg": "/static/media/YFI-logo.442c449a.svg",
     "static/media/bodh-logo.b3a462ab.png": "/static/media/bodh-logo.b3a462ab.png",
@@ -43,10 +44,10 @@
     "static/media/rating-star.a3af5a27.svg": "/static/media/rating-star.a3af5a27.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a3d2cb59.js",
+    "static/js/runtime-main.229fb84f.js",
     "static/css/2.f4c56af9.chunk.css",
-    "static/js/2.e358efc8.chunk.js",
-    "static/css/main.a87fdba0.chunk.css",
-    "static/js/main.98e93300.chunk.js"
+    "static/js/2.e3a332c5.chunk.js",
+    "static/css/main.92391ab4.chunk.css",
+    "static/js/main.1a756068.chunk.js"
   ]
 }
