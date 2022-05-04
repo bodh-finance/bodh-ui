@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.a24f1423.chunk.css",
-    "main.js": "/static/js/main.c5889d7a.chunk.js",
-    "main.js.map": "/static/js/main.c5889d7a.chunk.js.map",
+    "main.js": "/static/js/main.2a2b44d9.chunk.js",
+    "main.js.map": "/static/js/main.2a2b44d9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a3d2cb59.js",
     "runtime-main.js.map": "/static/js/runtime-main.a3d2cb59.js.map",
     "static/css/2.f4c56af9.chunk.css": "/static/css/2.f4c56af9.chunk.css",
@@ -36,7 +36,7 @@
     "static/media/UNI-logo.122b46d7.svg": "/static/media/UNI-logo.122b46d7.svg",
     "static/media/USDC-logo.f08e02b1.svg": "/static/media/USDC-logo.f08e02b1.svg",
     "static/media/USDT-logo.6dc09781.svg": "/static/media/USDT-logo.6dc09781.svg",
-    "static/media/WAGMI-logo.db5cb194.png": "/static/media/WAGMI-logo.db5cb194.png",
+    "static/media/WAGMI-logo.ebaa6e59.png": "/static/media/WAGMI-logo.ebaa6e59.png",
     "static/media/WBTC-logo.fa29bebf.svg": "/static/media/WBTC-logo.fa29bebf.svg",
     "static/media/YFI-logo.442c449a.svg": "/static/media/YFI-logo.442c449a.svg",
     "static/media/bodh-logo.b3a462ab.png": "/static/media/bodh-logo.b3a462ab.png",
@@ -47,6 +47,6 @@
     "static/css/2.f4c56af9.chunk.css",
     "static/js/2.eb9cf6b1.chunk.js",
     "static/css/main.a24f1423.chunk.css",
-    "static/js/main.c5889d7a.chunk.js"
+    "static/js/main.2a2b44d9.chunk.js"
   ]
 }
